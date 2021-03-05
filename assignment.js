@@ -48,7 +48,3 @@ function megaFriend(friend){
     }
     return mega;
 }
-console.log(megaFriend(["rakib","jahidul","muccabbir"]))
-console.log(kilometerToMeter(3))
-console.log(hotelCost(99))
-console.log(budgetCalculator(2,4,5))
